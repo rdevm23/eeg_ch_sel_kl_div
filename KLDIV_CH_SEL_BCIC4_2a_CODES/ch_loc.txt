@@ -1,0 +1,1 @@
+{'EEG-Fz';'EEG';'EEG';'EEG';'EEG';'EEG';'EEG';'EEG-C3';'EEG';'EEG-Cz';'EEG';'EEG-C4';'EEG';'EEG';'EEG';'EEG';'EEG';'EEG';'EEG';'EEG-Pz';'EEG';'EEG';'EOG-left';'EOG-central';'EOG-right'}
